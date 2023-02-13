@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dogi/static/css/main.ca245963.css",
+    "main.js": "/dogi/static/js/main.b4b80bf0.js",
+    "index.html": "/dogi/index.html",
+    "main.ca245963.css.map": "/dogi/static/css/main.ca245963.css.map",
+    "main.b4b80bf0.js.map": "/dogi/static/js/main.b4b80bf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca245963.css",
+    "static/js/main.b4b80bf0.js"
+  ]
+}
